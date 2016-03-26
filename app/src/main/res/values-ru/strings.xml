@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="toppings">Дополнения</string>
+    <string name="whipped_cream">Сливки</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="quantity">Количество</string>
+    <string name="order_summary">Отчет по заказу</string>
+    <string name="client_name">Имя</string>
+    <string name="add_cream">Добавлены сливки?</string>
+    <string name="add_chocolate">Добавлено шоколад?</string>
+    <string name="total">Сумма</string>
+    <string name="thanks">Спасибо</string>
+    <string name="order">Заказат</string>
+    <string name="hintName">Имя</string>
+
+</resources>
